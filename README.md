@@ -17,7 +17,7 @@
 
 Third-year Computer Engineering student at the Federal University of Rio Grande (FURG), in southern Brazil.
 
-I have been programming since 2018 and arrived at robotics through the web — several years of freelance work on APIs, mobile and desktop apps before I ever touched a robot. That order still shows: I care about the plumbing as much as about the model, and I am as likely to be writing a REST endpoint as tuning a manipulation policy.
+I have been programming since 2018, and robotics came in at the same time — it started with LEGO Mindstorms in school competitions, while I took freelance web and mobile work on the side. In 2024 I joined FBOT and moved on to robots running on real hardware: ROS, manipulators, autonomous platforms. That is where most of my time goes now, though I still build web and backend systems.
 
 - 🦾 Bimanual manipulation and teleoperation at **OpenRob** — FURG
 - 🤖 Captain of the industrial category at **FBOT**, Brazilian champion and RoboCup world finalist
@@ -40,7 +40,7 @@ I captain the industrial category, coordinating 24 people. On the technical side
 
 Weed detection with YOLOv8, running onboard alongside navigation, and the cartesian axis that acts on what it finds — GRBL control over serial plus a polynomial-regression mapping from camera pixels to table coordinates, so a plant seen in the image can be reached by the tool.
 
-→ [Stihl-Cartesian](https://github.com/romulo-maciel/Stihl-Cartesian) · [yolo-test](https://github.com/romulo-maciel/yolo-test)
+→ [yolo-test](https://github.com/romulo-maciel/yolo-test)
 
 **Web, mobile and backend**
 
