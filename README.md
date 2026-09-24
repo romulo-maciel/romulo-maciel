@@ -36,7 +36,7 @@ Training and fine-tuning Vision-Language-Action policies (π0.5, ACT, SmolVLA) o
 
 I captain the industrial category, coordinating 24 people. On the technical side: the speech pipeline (STT → LLM → TTS), action planning to cut task execution time, socket transport for real-time sensor data between onboard computers and processing stations, 3D pose estimation from depth data, and state-machine control architectures.
 
-**Autonomous gardening robot — Stihl × iTec/FURG**
+**Autonomous gardening robot — Uni project**
 
 Weed detection with YOLOv8, running onboard alongside navigation, and the cartesian axis that acts on what it finds — GRBL control over serial plus a polynomial-regression mapping from camera pixels to table coordinates, so a plant seen in the image can be reached by the tool.
 
